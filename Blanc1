@@ -1,0 +1,6 @@
+echo "# Blanc-House" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/BlancNyeko/Blanc-House.git
+git push -u origin master
